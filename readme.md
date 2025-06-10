@@ -2,11 +2,11 @@
 
 A dynamic 3D text visualization project built with Three.js, showcasing interactive 3D text rendering in a web browser.
 
-[![Deploy to GitHub Pages](https://github.com/[your-username]/3dTextThreeJs/actions/workflows/deploy.yml/badge.svg)](https://github.com/[your-username]/3dTextThreeJs/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/EddieBorbon/3dTextThreeJs/actions/workflows/deploy.yml/badge.svg)](https://github.com/[your-username]/3dTextThreeJs/actions/workflows/deploy.yml)
 
 ## 🌐 Demo
 
-Check out the live demo: [3D Text Demo](https://[your-username].github.io/3dTextThreeJs)
+Check out the live demo: [3D Text Demo](https://EddieBorbon.github.io/3dTextThreeJs)
 
 ## Features
 
